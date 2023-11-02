@@ -1,0 +1,5 @@
+require("miro.remap")
+require("miro.harpoon")
+require("miro.undotree")
+require("miro.fugitive")
+require("miro.set")
